@@ -3,7 +3,6 @@ import org.scalatest.funsuite.AnyFunSuiteLike
 class TinyTest extends AnyFunSuiteLike {
 
   test("testADC") {
-    assert()
   }
 
   test("testSTA") {

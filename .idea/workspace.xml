@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3c1c7f-f5d7-4861-b73e-414ccae5cf00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/scala/TinyTest.scala" afterDir="false" />
+    <list default="true" id="7e3c1c7f-f5d7-4861-b73e-414ccae5cf00" name="Changes" comment="got basic Tiny machine setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/TinyTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/TinyTest.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,51 +28,53 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="ScalaTest Class" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "agmui"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;agmui&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:rhit-lowej2/tiny-emulator.git",
-    "accountId": "ede5ce05-e88a-40fd-a603-01a5f580ab5b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:rhit-lowej2/tiny-emulator.git&quot;,
+    &quot;accountId&quot;: &quot;ede5ce05-e88a-40fd-a603-01a5f580ab5b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2xFT1HAQJ5HDzg8ORqXSJ7xSk9I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.main.executor": "Run",
-    "ScalaTest.TinyTest.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "ScalaTest",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest": "org.scalatest.funsuite.AnyFunSuiteLike",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ScalaTest.TinyTest.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;ScalaTest&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest&quot;: &quot;org.scalatest.funsuite.AnyFunSuiteLike&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="org.scalatest.funsuite.AnyFunSuiteLike" />
@@ -143,11 +147,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747532606136</updated>
-      <workItem from="1747532607396" duration="8512000" />
+      <workItem from="1747532607396" duration="16905000" />
+      <workItem from="1747591591599" duration="2271000" />
+      <workItem from="1747610521445" duration="6521000" />
     </task>
+    <task id="LOCAL-00001" summary="got basic Tiny machine setup">
+      <option name="closed" value="true" />
+      <created>1747541219766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747541219766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="got basic Tiny machine setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="got basic Tiny machine setup" />
   </component>
 </project>
