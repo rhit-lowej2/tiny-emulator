@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3c1c7f-f5d7-4861-b73e-414ccae5cf00" name="Changes" comment="got basic Tiny machine setup">
+    <list default="true" id="7e3c1c7f-f5d7-4861-b73e-414ccae5cf00" name="Changes" comment="added DSL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/TinyTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/TinyTest.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,9 @@
       <updated>1747532606136</updated>
       <workItem from="1747532607396" duration="16905000" />
       <workItem from="1747591591599" duration="2271000" />
-      <workItem from="1747610521445" duration="6521000" />
+      <workItem from="1747610521445" duration="7364000" />
+      <workItem from="1747762560967" duration="56000" />
+      <workItem from="1747895389398" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="got basic Tiny machine setup">
       <option name="closed" value="true" />
@@ -159,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747541219766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added DSL">
+      <option name="closed" value="true" />
+      <created>1747628630121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747628630121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="got basic Tiny machine setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="got basic Tiny machine setup" />
+    <MESSAGE value="added DSL" />
+    <option name="LAST_COMMIT_MESSAGE" value="added DSL" />
   </component>
 </project>

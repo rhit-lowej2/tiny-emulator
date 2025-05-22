@@ -86,7 +86,7 @@ def runner(tiny: Tiny, code: Vector[(op, Int)]): List[Int] =
   runner(newTiny, code)
 
 
-var totalCode: mutable.ListBuffer[(op, Int)] = mutable.ListBuffer.empty
+val totalCode: mutable.ListBuffer[(op, Int)] = mutable.ListBuffer.empty
 
 class Asm
 
